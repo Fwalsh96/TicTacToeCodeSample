@@ -1,0 +1,9 @@
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.csprojAssemblyReference.cache
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.Form1.resources
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.cache
+C:\Users\brack\Desktop\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\brack\Desktop\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\brack\Desktop\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\brack\Desktop\TicTacToe\obj\Release\TicTacToe.pdb
